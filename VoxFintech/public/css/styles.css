@@ -1,0 +1,25 @@
+:root {
+    --primary: #3DCCB1;
+}
+
+body {
+    font-family: 'Raleway', sans-serif !important;
+}
+
+h1, h3 {
+    font-family: 'Archivo Black', sans-serif
+}
+
+.navbar-brand {
+    padding-left: var(--bs-navbar-brand-padding-y);
+    color: var(--primary) !important;
+    font-family: 'Archivo Black';
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.centralize {
+    text-align: center;
+}
